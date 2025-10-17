@@ -9,7 +9,7 @@ The `SwiftUI Essentials` is following the tutorial from Apple - [SwiftUI Essenti
 `LandMarks` 
 A small app uses stacks to arrange layouts for different components such as image, text, map. 
 
-![Landmark App Preview](./resources/Landmark-app-preview.png)
+![Landmark App Preview](https://raw.githubusercontent.com/yimingpeng/Learning-SwiftDev/main/resources/LandMark-app-preview.png)
 
 #### Known Issues 
 - xcode 26 doesn't support `SwiftUI Inspector` 
